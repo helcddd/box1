@@ -1,6 +1,7 @@
 {
     "spider": "./jar/123.jar;md5;940314411999ead524604083126bc543",
     "sites": [
+        //导航页
         {
             "key": "drpy_js_豆瓣",
             "name": "豆瓣 | 热播[js]",
@@ -8,6 +9,8 @@
             "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"
         },
+
+        //直播转点播
         {
             "key": "直播转点播",
             "name": "直播转点播",
