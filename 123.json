@@ -130,7 +130,7 @@
             "name": "网盘 | Alist[js]",
             "type": 3,
             "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/alist.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/txt/json/alist.json"
+            "ext": "./lib/alist.json"
         },
         {
             "key": "drpy_js_360影视",
