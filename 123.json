@@ -2,7 +2,7 @@
     "spider": "./jar/123.jar;md5;940314411999ead524604083126bc543",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
-              {
+        {
             "key": "豆瓣",
             "name": "豆瓣",
             "type": 3,
