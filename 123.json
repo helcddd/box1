@@ -17,7 +17,6 @@
             "type": 3,
             "api": "csp_Bili",
             "searchable": 1,
-            "quickSearch": 0,
             "filterable": 1
         },
         {
@@ -26,7 +25,6 @@
             "type": 3,
             "api": "csp_Star",
             "searchable": 1,
-            "quickSearch": 0,
             "filterable": 1
         }
     ],
