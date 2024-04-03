@@ -9,7 +9,7 @@
       "searchable": 0,
       "changeable": 1,
       "indexs": 1,
-      "ext": "./lib/douban.json"
+      "ext": "https://agit.ai/leevi/PiG/raw/branch/master/lib/douban.json"
     },
     {
       "key": "Wogg",
