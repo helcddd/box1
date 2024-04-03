@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/XPPG.jar",
+    "spider": "./jar/XBPG.jar",
     "sites": [
         {
             "key": "豆瓣",
