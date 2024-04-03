@@ -1,9 +1,9 @@
 {
-    "spider": "./jar/pg.jar",
+    "spider": "./jar/xppg.jar",
     "sites": [
         {
             "key": "豆瓣",
-            "name": "豆瓣",
+            "name": "❤豆瓣",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0,
@@ -13,7 +13,7 @@
         },
         {
             "key": "Wogg",
-            "name": "玩偶哥哥|网盘",
+            "name": "❤玩偶哥哥",
             "type": 3,
             "api": "csp_Wogg",
             "quickSearch": 1,
@@ -24,7 +24,7 @@
         },
         {
             "key": "直播转点播",
-            "name": "📺︎┃电视┃点播",
+            "name": "❤直播转点播",
             "type": 3,
             "api": "./lib/zb.min.js",
             "searchable": 1,
