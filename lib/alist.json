@@ -1,9 +1,5 @@
 [
    {
-     "name":"mediy.cn",
-     "server":"https://pan.mediy.cn/"
-   },
-   {
       "name": "🙋丫仙女",
       "server": "http://alist.xiaoya.pro/",
       "startPage": "/",
@@ -48,5 +44,9 @@
    {
       "name": "💦讯维云盘",
       "server": "https://pan.xwbeta.com"
+   },
+   {
+      "name": "mediy",
+      "server": "https://pan.mediy.cn"
    }
 ]
