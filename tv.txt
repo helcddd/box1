@@ -1,4 +1,4 @@
-📀IPTV（同步更新中）,#genre#
+📀IPTV（河北）,#genre#
 CCTV-1,http://111.61.236.247:9081/hls/1/index.m3u8
 CCTV-2,http://111.61.236.247:9081/hls/2/index.m3u8
 CCTV-3,http://111.61.236.247:9081/hls/3/index.m3u8
@@ -76,6 +76,7 @@ CCTV-7高清,http://111.61.236.247:9081/hls/74/index.m3u8
 CCTV-8高清,http://111.61.236.247:9081/hls/75/index.m3u8
 霸州台,http://111.61.236.247:9081/hls/122/index.m3u8
 
+📀IPTV（山东）,#genre#
 CCTV1综合,http://144.0.18.151:8018//hls/1/index.m3u8
 CCTV2-财经,http://144.0.18.151:8018//hls/2/index.m3u8
 CCTV3-综艺,http://144.0.18.151:8018//hls/3/index.m3u8
@@ -158,6 +159,7 @@ QTV-6,http://144.0.18.151:8018//hls/37/index.m3u8
 经典电影,http://144.0.18.151:8018//hls/82/index.m3u8
 动作电影,http://144.0.18.151:8018//hls/83/index.m3u8
 
+📀IPTV（河南）,#genre#
 CCTV-1综合,http://36.99.132.88:808//hls/1/index.m3u8
 CCTV-2财经,http://36.99.132.88:808//hls/2/index.m3u8
 CCTV-3综艺,http://36.99.132.88:808//hls/3/index.m3u8
