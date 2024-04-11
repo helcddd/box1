@@ -773,7 +773,7 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 羞羞鬼,https://vip.ffzy-play7.com/20221112/3366_3a1a794c/index.m3u8
 
 
-游戏频道,#genre#
+游戏主播,#genre#
 虎牙lpl主舞台,https://www.goodiptv.club/huya/660000
 虎牙lpl副舞台,https://www.goodiptv.club/huya/660137
 虎牙lpl纯净流A,rtmp://tx.matchdownstream.huya.com/huyalive/lpl24cleanA
@@ -786,3 +786,7 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 虎牙红莲,https://www.goodiptv.club/huya/229085
 虎牙弃徒,https://www.goodiptv.club/huya/825290
 斗鱼玛雅,https://www.goodiptv.club/douyu/252140
+
+舞蹈主播,#genre#
+斗鱼米娜,https://www.goodiptv.club/douyu/22619
+
