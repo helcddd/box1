@@ -4,6 +4,14 @@
         "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/helcddd/box1/main/tv.txt&&&http://3650000.xyz/api/360.php?cid=5"
     },
     {
+        "name": "fm电台",
+        "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/fanmingming/live/main/radio/m3u/fm.m3u&&&http://3650000.xyz/api/360.php?cid=1"
+    },
+    {
+        "name": "fm直播源",
+        "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u&&&http://3650000.xyz/api/360.php?cid=2"
+    },
+    {
         "name": "虎牙一起看",
         "url": "http://114.55.131.240:35455/huyayqk.m3u?url=http://114.55.131.240:35455&&&http://3650000.xyz/api/360.php?cid=9"
     },
