@@ -1,3 +1,6 @@
+📀央视,#genre#
+CCTV-1 综合,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+
 📀IPTV（河北）,#genre#
 CCTV-1,http://111.61.236.247:9081/hls/1/index.m3u8
 CCTV-2,http://111.61.236.247:9081/hls/2/index.m3u8
