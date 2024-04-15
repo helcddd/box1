@@ -1,5 +1,17 @@
 📀央视,#genre#
-CCTV-1 综合,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+CCTV-1 综合, https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+CCTV-2 财经, https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+CCTV-4 中文国际（亚） Ⓨ, https://www.youtube.com/channel/UC4K_LI-Tn3-LshNgG0-YypQ/live
+CCTV-4 中文国际（美） Ⓢ, https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV-5 体育, https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+CCTV-5+ 体育赛事, https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+CCTV-7 国防军事, https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
+CCTV-8 电视剧, https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
+CCTV-9 纪录, https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+CCTV-10 科教, https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
+CCTV-13 新闻, https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
+CCTV-17 农业农村, https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
+
 
 📀IPTV（河北）,#genre#
 CCTV-1,http://111.61.236.247:9081/hls/1/index.m3u8
