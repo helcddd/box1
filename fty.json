@@ -46,7 +46,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/bilibili.json"
+            "ext": "./lib/bilibili.json"
         },
         {
             "key": "Biliych",
@@ -60,7 +60,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/biliych.json"
+            "ext": "./bin/biliych.json"
         },
         {
             "key": "csp_Yj1211",
@@ -266,7 +266,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/nmys.json"
+            "ext": "./lib/nmys.json"
         },
         {
             "key": "csp_Bttoo",
@@ -317,8 +317,8 @@
             "quickSearch": 1,
             "changeable": 1,
             "playerType": "1",
-            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/jp.js"
+            "api": "./lib/drpy2.min.js",
+            "ext": "./lib/jp.js"
         },
         {
             "key": "新6V",
@@ -382,8 +382,8 @@
             "key": "Jrsjs",
             "name": "⚽ Jrs┃球迷",
             "type": 3,
-            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/jrk.js",
+            "api": "./lib/drpy2.min.js",
+            "ext": "./lib/jrk.js",
             "style": {
                 "type": "list"
             },
@@ -395,8 +395,8 @@
             "key": "310js",
             "name": "⚽310┃看球",
             "type": 3,
-            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/310直播.js",
+            "api": "./lib/drpy2.min.js",
+            "ext": "./lib/310直播.js",
             "style": {
                 "type": "list"
             },
@@ -415,7 +415,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/企鹅直播.json"
+            "ext": "./lib/企鹅直播.json"
         },
         {
             "key": "酷奇",
