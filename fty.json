@@ -40,7 +40,7 @@
                 "danMu": "弹"
             }
         },
-        
+
         {
             "key": "YGP",
             "name": "🚀叨观荐影┃新片",
@@ -683,6 +683,11 @@
                     "XALS"
                 ]
             }
+        },
+        {
+            "name": "♻️小鱼解析",
+            "type": 1,
+            "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=fjklpqsyCDGMNQRWX8&url="
         },
         {
             "name": "免费分享",
