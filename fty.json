@@ -591,6 +591,11 @@
             }
         },
         {
+            "name": "♻️OK解析",
+            "type": 1,
+            "url": "https://okjx.cc/?url="
+        },
+        {
             "name": "免费分享",
             "type": 0,
             "url": "https://jx.xmflv.com/?url=",
