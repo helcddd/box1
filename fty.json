@@ -40,19 +40,7 @@
                 "danMu": "弹"
             }
         },
-
-        {
-            "key": "csp_XYQHiker_奈飞中文",
-            "name": "奈飞中文(HM2)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com//yydfys/yydf/main/XYQTVBox/XYQHiker/奈飞中文.json",
-            "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com//yydfys/yydf/main/XYQTVBox/custom_spider.jar"
-        },
-
+        
         {
             "key": "YGP",
             "name": "🚀叨观荐影┃新片",
