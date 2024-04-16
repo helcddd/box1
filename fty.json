@@ -34,6 +34,19 @@
             "changeable": 0,
             "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
         },
+
+        {
+      "key": "csp_XYQHiker_奈飞中文",
+      "name": "奈飞中文(HM2)",
+      "type": 3,
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com//yydfys/yydf/main/XYQTVBox/custom_spider.jar"
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com//yydfys/yydf/main/XYQTVBox/XYQHiker/奈飞中文.json"
+    },
+        
         {
             "key": "Bili",
             "name": "🅱哔哔┃合集",
