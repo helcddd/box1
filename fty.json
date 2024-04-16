@@ -236,7 +236,7 @@
             "changeable": 1,
             "playerType": "1",
             "api": "./lib/drpy2.min.js",
-            "ext": "./lib/荐片.js"
+            "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/荐片.js"
         },
         {
             "key": "新6V",
