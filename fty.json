@@ -73,7 +73,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "./bin/biliych.json"
+            "ext": "./lib/biliych.json"
         },
         {
             "key": "csp_Yj1211",
