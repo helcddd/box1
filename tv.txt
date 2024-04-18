@@ -397,6 +397,74 @@ CCTV15,http://218.24.193.146:808/hls/6/index.m3u8
 封神榜陈浩民,https://www.goodiptv.club/huya/23749096
 西游记港版,https://www.goodiptv.club/huya/23735126
 万合出品,http://43.138.170.29:35455/douyu/9220456
+狂飙,http://43.138.170.29:35455/yy/1382754187
+征服,http://43.138.170.29:35455/douyu/2726977
+渴望,http://43.138.170.29:35455/yy/1354930963
+风筝,http://43.138.170.29:35455/yy/1382828770
+顺娘,http://43.138.170.29:35455/yy/1354930945
+富贵,http://43.138.170.29:35455/yy/1354926537
+天道,http://43.138.170.29:35455/yy/1382735574
+黑冰,http://43.138.170.29:35455/yy/1354932427
+金婚,http://43.138.170.29:35455/yy/1382828768
+马大帅,http://43.138.170.29:35455/yy/1353782648
+都挺好,http://43.138.170.29:35455/yy/1382736892
+包青天,http://43.138.170.29:35455/yy/463153
+朱元璋,http://43.138.170.29:35455/douyu/308752
+李三枪,http://43.138.170.29:35455/yy/1354936122
+上海滩,http://43.138.170.29:35455/yy/1382745184
+好先生,http://43.138.170.29:35455/douyu/9650792
+叛逆者,http://43.138.170.29:35455/yy/1382736868
+宫心计,http://43.138.170.29:35455/yy/1354932429
+伪装者,http://43.138.170.29:35455/yy/1382851593
+小欢喜,http://43.138.170.29:35455/yy/1382737888
+闯关东,http://43.138.170.29:35455/douyu/8787737
+流金岁月,http://43.138.170.29:35455/yy/1382736891
+传奇英雄,http://43.138.170.29:35455/yy/1382735578
+勇敢的心,http://43.138.170.29:35455/yy/18853
+康熙王朝,http://43.138.170.29:35455/yy/1382851583
+正阳门下,http://43.138.170.29:35455/yy/1382851588
+武林外传,http://43.138.170.29:35455/yy/411376
+济公游记,http://43.138.170.29:35455/yy/21482
+新封神榜,http://43.138.170.29:35455/yy/31128
+插翅难逃,http://43.138.170.29:35455/yy/23402146
+无敌县令,http://43.138.170.29:35455/yy/1354932390
+魔幻手机,http://43.138.170.29:35455/yy/1382735544
+法正先锋,http://43.138.170.29:35455/yy/1354930939
+水月洞天,http://43.138.170.29:35455/yy/1462996362
+汉武大帝,http://43.138.170.29:35455/yy/1355260855
+我爱我家,http://43.138.170.29:35455/yy/1356212303
+读心神探,http://43.138.170.29:35455/yy/1382851589
+冲上云霄,http://43.138.170.29:35455/yy/1382736833
+大江大河,http://43.138.170.29:35455/yy/1382736797
+隋唐演义,http://43.138.170.29:35455/douyu/7552568
+钟馗传说,http://43.138.170.29:35455/yy/1382736839
+溏心风暴,http://43.138.170.29:35455/yy/1354888747
+雍正王朝,http://43.138.170.29:35455/yy/26901
+父母爱情,http://43.138.170.29:35455/yy/1382746276
+火蓝刀锋,http://43.138.170.29:35455/yy/1382737892
+白夜追凶,http://43.138.170.29:35455/yy/1354932359
+金玉满堂,http://43.138.170.29:35455/yy/1382736881
+民兵葛二蛋,http://43.138.170.29:35455/yy/1382736895
+红楼梦1987,http://43.138.170.29:35455/yy/1382745084
+怪医文三块,http://43.138.170.29:35455/yy/1354936154
+放羊的星星,http://43.138.170.29:35455/yy/21480
+忠烈杨家将,http://43.138.170.29:35455/yy/1382749909
+少年包青天,http://43.138.170.29:35455/yy/1356043677
+隋唐英雄传,http://43.138.170.29:35455/yy/350891
+情满四合院,http://43.138.170.29:35455/yy/1382735541
+雪中悍刀情,http://43.138.170.29:35455/yy/11410
+神医喜来乐,http://43.138.170.29:35455/yy/1382714119
+宰相刘罗锅,http://43.138.170.29:35455/yy/1382745191
+刑事侦缉档案,http://43.138.170.29:35455/yy/1382851585
+新白娘子传奇,http://43.138.170.29:35455/yy/634132
+风云雄霸天下,http://43.138.170.29:35455/douyu/9290755
+我的父亲我的兵,http://43.138.170.29:35455/yy/1353413714
+穿越时空的爱恋,http://43.138.170.29:35455/yy/1382735567
+特种兵之火凤凰,http://43.138.170.29:35455/yy/1356326459
+神雕侠侣古天乐,http://43.138.170.29:35455/yy/12531
+飞虎之雷霆极战,http://43.138.170.29:35455/yy/1382736869
+知否知否应是绿肥红瘦,http://43.138.170.29:35455/yy/398312
+经典电视剧,http://43.138.170.29:35455/yy/1356341389
 
 
 🎬电影频道,#genre#
@@ -786,6 +854,44 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 天地玄门,https://vip.ffzy-play6.com/20221112/6127_d615f342/index.m3u8
 密宗威龙,https://vip.ffzy-play7.com/20221112/3607_e49d9e93/index.m3u8
 羞羞鬼,https://vip.ffzy-play7.com/20221112/3366_3a1a794c/index.m3u8
+
+坚如磐石,https://hhhthls.mcloud.139.com/hls/NK7f4edd4453c37c63fb25a5c8b08902d2/single/video/0/720/index.m3u8
+斗破苍穹止戈,https://vip.ffzyread.com/20231221/21283_989f5c57/2000k/hls/mixed.m3u8
+朝歌风云,https://sf1-ugcdn-tos.pstatp.com/obj/tos-cn-i-siecs4i2o7/ogZjygANKAzoQUAOExAABJ3MNGfRsh2hoAzcNA
+朝歌风云,https://v.cdnlz3.com/20230921/21777_9c4ddfe4/2000k/hls/mixed.m3u8
+超能敢死队,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20220104/15188709J817P3zOoRq6ngMdjk.m3u8
+惊奇队长2,https://v.cdnlz4.com/20231113/26138_0130179f/index.m3u8
+复仇者联盟1,https://bp-resource.bestv.com.cn/material/8e9fd77cb864f2dd5e70d093a4bba368/2021/0426/video/5fd85575e23f40379d319f455fde9351.m3u8
+复仇者联盟2,https://bp-resource.bestv.com.cn/material/8e9fd77cb864f2dd5e70d093a4bba368/2020/0722/video/bce6e4ce6a3a4c9989837b58486cc777.m3u8
+复仇者联盟3,https://bp-resource.bestv.com.cn/material/8e9fd77cb864f2dd5e70d093a4bba368/2022/0117/video/f81c8dd998ee41a9aa4788bdefe9f921.m3u8
+复仇者联盟4,https://bp-resource.bestv.com.cn/material/8e9fd77cb864f2dd5e70d093a4bba368/2020/0716/video/5012ea0aa0c34d6ba5880236c503df1a.m3u8
+流浪地球2,https://cdn10.yzzy-tv-cdn.com/20230124/23895_527527bc/index.m3u8
+碟中谍5:神秘国度,https://bp-resource.bestv.com.cn/material/8e9fd77cb864f2dd5e70d093a4bba368/2020/0716/video/5927638d24d84597ba4ecc8575f74f03.m3u8
+谍中渫6:全面瓦解,https://bp-resource.bestv.com.cn/material/8e9fd77cb864f2dd5e70d093a4bba368/2021/0413/video/f88bb8437eb442d9bd34c5b1594ba765.m3u8
+夺宝奇兵5命运转盘,https://s.xlzys.com/play/RdG2XD5b/index.m3u8
+极限挑战,http://43.138.170.29:35455/huya/11352914
+奇门遁术2,https://vip.ffzy-play4.com/20230104/5748_8621a451/2000k/hls/mixed.m3u8
+鬼噤声,https://s.xlzys.com/play/lejK1PBa/index.m3u8
+功夫,https://hnzy.bfvvs.com/play/lej5zYdj/index.m3u8
+少林足球,https://hnzy.bfvvs.com/play/5eVn19eE/index.m3u8
+大话西游之娶亲,https://hnzy.bfvvs.com/play/Rb48MnbB/index.m3u8
+九品芝麻官,https://alimov2.a.kwimgs.com/upic/2021/12/28/11/BMjAyMTEyMjgxMTIyMTJfNDAzMDAxOTlfNjM2NjgxODA5MTBfMF8z_b_B6a0bcfcdbdaac183fa7dcbcd3e11bcaf.mp4
+百变星君,https://hnzy.bfvvs.com/play/yb8WDgav/index.m3u8
+武状元苏乞儿,https://hnzy.bfvvs.com/play/5eVJ0MeE/index.m3u8
+长江七号,https://hnzy.bfvvs.com/play/1aKrOKGe/index.m3u8
+逃学威龙2,https://alimov2.a.kwimgs.com/upic/2021/12/28/16/BMjAyMTEyMjgxNjUxMzhfNDAzMDAxOTlfNjM2ODQ1ODYxNzhfMF8z_b_Ba5bdfedb34d432e906dbc401975d5387.mp4
+逃学威龙2,https://hnzy.bfvvs.com/play/PdymLgdQ/index.m3u8
+食神,https://hnzy.bfvvs.com/play/5eVNkveE/index.m3u8
+鹿鼎记,https://hnzy.bfvvs.com/play/PdyrY6eQ/index.m3u8
+雌雄双辣,https://hnzy.bfvvs.com/play/QeZVR6ep/index.m3u8
+望夫成龙,https://hnzy.bfvvs.com/play/YaOEOQdx/index.m3u8
+全城通缉,https://txmov2.a.kwimgs.com/upic/2021/12/28/14/BMjAyMTEyMjgxNDUzMTlfNDAzMDAxOTlfNjM2Nzg2NjEwNDRfMF8z_b_Bf1c40824eac16988fd87f2df97b48e75.mp4
+叶问：终极一战,https://txmov2.a.kwimgs.com/upic/2021/12/28/15/BMjAyMTEyMjgxNTIwMDhfNDAzMDAxOTlfNjM2Nzk5NTA4NzlfMF8z_b_B4b2db998ef301a0e3651596a86fdf015.mp4
+叶问,https://txmov2.a.kwimgs.com/upic/2020/12/14/17/BMjAyMDEyMTQxNzM1MzRfNDAzMDAxOTlfNDA3MDI0NzczMDJfMF8z_b_Bc617b3a6837c6897fc9155b08d0425a5.mp4
+海鹰,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/00f88e15028648cab76156c5635effe2/850.m3u8
+海鹰,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/412ae4c1c5fe4150a14197c437391fe2/850.m3u8
+斯大林格勒大血战,https://vip.lz-cdn7.com/20230414/15369_58fbcac8/2000k/hls/mixed.m3u8
+墨菲的战争,https://vip.lz-cdn7.com/20230217/14329_8c5f5593/2000k/hls/mixed.m3u8
 
 
 游戏主播,#genre#
