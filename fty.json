@@ -888,6 +888,12 @@
     ],
     "lives": [
         {
+            "name": "XIUTAN",
+            "ua": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/120.0.0.0Safari/537.36Edg/120.0.0.0",
+            "type": 0,
+            "url": "https://xhdwc.tk/xiutan.m3u"
+        },
+        {
             "name": "自用",
             "type": 0,
             "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/helcddd/box1/main/tv.txt",
