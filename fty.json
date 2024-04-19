@@ -900,11 +900,19 @@
             "url": "https://dpaste.org/xGFmu/raw"
         },
         {
+            "name": "白嫖",
+            "ua": "okhttp/4.1.0",
+            "type": 0,
+            "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u"
+        },
+
+        https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
+        {
             "name": "自用",
             "type": 0,
             "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/helcddd/box1/main/tv.txt",
             "playerType": 1,
-            "ua": "ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+            "ua": "okhttp/4.1.0",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
