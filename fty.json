@@ -909,6 +909,15 @@
             "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u"
         },
         {
+            "name": "运输船",
+            "type": 0,
+            "url": "https://weixine.net/tv/ysclive.txt",
+            "playerType": 2,
+            "ua": "okhttp/4.1.0",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        }
+        {
             "name": "自用",
             "type": 0,
             "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/helcddd/box1/main/tv.txt",
