@@ -15,7 +15,7 @@
         {
             "key": "直播转点播",
             "name": "📺︎┃电视┃点播",
-            "playerType": 1,
+            "playerType": 2,
             "type": 3,
             "api": "./lib/zb.min.js",
             "searchable": 1,
@@ -890,18 +890,21 @@
         {
             "name": "央视网xiutan",
             "ua": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/120.0.0.0Safari/537.36Edg/120.0.0.0",
+            "playerType": 2,
             "type": 0,
             "url": "https://xhdwc.tk/xiutan.m3u"
         },
         {
             "name": "台湾4GTV",
             "ua": "ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+            "playerType": 2,
             "type": 0,
             "url": "https://dpaste.org/xGFmu/raw"
         },
         {
             "name": "白嫖",
             "ua": "okhttp/4.1.0",
+            "playerType": 2,
             "type": 0,
             "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u"
         },
@@ -909,7 +912,7 @@
             "name": "自用",
             "type": 0,
             "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/helcddd/box1/main/tv.txt",
-            "playerType": 1,
+            "playerType": 2,
             "ua": "okhttp/4.1.0",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
