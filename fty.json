@@ -916,7 +916,7 @@
             "ua": "okhttp/4.1.0",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
-        }
+        },
         {
             "name": "自用",
             "type": 0,
