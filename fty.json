@@ -580,7 +580,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/bilibili.json"
+            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/bilibili.json"
         },
         {
             "key": "Biliych",
@@ -594,14 +594,14 @@
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/biliych.json"
+            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/biliych.json"
         },
         {
             "key": "dr_兔小贝",
             "name": "📚儿童┃启蒙",
             "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
+            "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
             "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -622,7 +622,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/少儿教育.json"
+            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/少儿教育.json"
         },
         {
             "key": "小学课堂",
@@ -636,7 +636,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/小学课堂.json"
+            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/小学课堂.json"
         },
         {
             "key": "初中课堂",
@@ -650,7 +650,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/初中课堂.json"
+            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/初中课堂.json"
         },
         {
             "key": "高中教育",
@@ -664,7 +664,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/高中课堂.json"
+            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/高中课堂.json"
         },
         {
             "key": "Nbys",
