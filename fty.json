@@ -798,6 +798,13 @@
             "type": 0,
             "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
             "playerType": 1
+        },
+        {
+            "name": "星视界2线",
+            "type": 0,
+            "url": " http://www.52sw.top:678/play/oj1381/list.php?get=%E6%98%9F%E8%A7%86%E7%95%8C2%E7%BA%BF&t=1718779677",
+            "playerType": 1
         }
+       
     ]
 }
