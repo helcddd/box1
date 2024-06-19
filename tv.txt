@@ -332,49 +332,50 @@ CCTV15,http://218.24.193.146:808/hls/6/index.m3u8
 
 
 📺电视剧点播,#genre#
-武林外传1,https://www.goodiptv.club/yy/21092633
-武林外传2,https://www.goodiptv.club/yy/1355652820
-武林外传3,https://live.metshop.top/yy/1394000563
+武林外传1,https://lunbo.freetv.top/yy/21092633
+武林外传2,https://lunbo.freetv.top/yy/1355652820
+武林外传3,https://lunbo.freetv.top/yy/1353852605
+武林外传4,https://live.metshop.top/yy/1394000563
 爱情公寓1,https://www.goodiptv.club/huya/11336726
 爱情公寓2,https://www.goodiptv.club/douyu/6863367
 爱情公寓3,https://www.goodiptv.club/douyu/6566658
-狂飙1,https://www.goodiptv.club/yy/1354790484
-狂飙2,https://www.goodiptv.club/yy/1382764587
-狂飙3,https://www.goodiptv.club/yy/1508778570
-狂飙4,https://www.goodiptv.club/yy/1382618077
-狂飙5,https://www.goodiptv.club/yy/1382881866
-狂飙6,https://www.goodiptv.club/yy/1356326459
-雪豹,https://www.goodiptv.club/yy/1450496699
-情满四合院1,https://www.goodiptv.club/yy/1382735541
-情满四合院2,https://www.goodiptv.club/yy/1382736848
-情满四合院3,https://www.goodiptv.club/yy/1382851524
-情满四合院4,https://www.goodiptv.club/yy/1382736888
-情满四合院5,https://www.goodiptv.club/yy/1382851601
-神雕侠侣1,https://www.goodiptv.club/yy/1382704651
-神雕侠侣2,https://www.goodiptv.club/yy/1351762426
-神雕侠侣3,https://www.goodiptv.club/yy/1460913377
-神雕侠侣4,https://www.goodiptv.club/yy/1354926637
-鹿鼎记-周星驰,https://www.goodiptv.club/yy/1354658049
-鹿鼎记1,https://www.goodiptv.club/yy/28265277
-鹿鼎记2,https://www.goodiptv.club/yy/1382704650
-鹿鼎记3,https://www.goodiptv.club/yy/1382736920
-天龙八部1,https://www.goodiptv.club/yy/28996058
-天龙八部2,https://www.goodiptv.club/yy/1382749944
-天龙八部3,https://www.goodiptv.club/yy/1382736855
-魔幻手机1,https://www.goodiptv.club/yy/1382735544
+狂飙1,https://lunbo.freetv.top/yy/1354790484
+狂飙2,https://lunbo.freetv.top/yy/1382764587
+狂飙3,https://lunbo.freetv.top/yy/1508778570
+狂飙4,https://lunbo.freetv.top/yy/1382618077
+狂飙5,https://lunbo.freetv.top/yy/1382881866
+狂飙6,https://lunbo.freetv.top/yy/1356326459
+雪豹,https://lunbo.freetv.top/yy/1450496699
+情满四合院1,https://lunbo.freetv.top/yy/1382735541
+情满四合院2,https://lunbo.freetv.top/yy/1382736848
+情满四合院3,https://lunbo.freetv.top/yy/1382851524
+情满四合院4,https://lunbo.freetv.top/yy/1382736888
+情满四合院5,https://lunbo.freetv.top/yy/1382851601
+神雕侠侣1,https://lunbo.freetv.top/yy/1382704651
+神雕侠侣2,https://lunbo.freetv.top/yy/1351762426
+神雕侠侣3,https://lunbo.freetv.top/yy/1460913377
+神雕侠侣4,https://lunbo.freetv.top/yy/1354926637
+鹿鼎记-周星驰,https://lunbo.freetv.top/yy/1354658049
+鹿鼎记1,https://lunbo.freetv.top/yy/28265277
+鹿鼎记2,https://lunbo.freetv.top/yy/1382704650
+鹿鼎记3,https://lunbo.freetv.top/yy/1382736920
+天龙八部1,https://lunbo.freetv.top/yy/28996058
+天龙八部2,https://lunbo.freetv.top/yy/1382749944
+天龙八部3,https://lunbo.freetv.top/yy/1382736855
+魔幻手机1,https://lunbo.freetv.top/yy/1382735544
 魔幻手机2,https://www.goodiptv.club/huya/11352966
-周星驰1,https://www.goodiptv.club/yy/38670875
+周星驰1,https://lunbo.freetv.top/yy/38670875
 周星驰2,https://www.goodiptv.club/huya/11342412
-林正英1,https://www.goodiptv.club/yy/1351505899
-林正英2,https://www.goodiptv.club/yy/1353312849
-林正英3,https://www.goodiptv.club/yy/1354932444
-成龙1,https://www.goodiptv.club/yy/34460526
-成龙2,https://www.goodiptv.club/yy/1354888751
-金庸,https://www.goodiptv.club/yy/1356043609
-宝莲灯前传,https://www.goodiptv.club/yy/1354931631
-红楼梦1987经典版,https://www.goodiptv.club/yy/1382745084
-请回答1988,https://www.goodiptv.club/yy/1354932362
-我和僵尸有个约会,https://www.goodiptv.club/yy/1354143966
+林正英1,https://lunbo.freetv.top/yy/1351505899
+林正英2,https://lunbo.freetv.top/yy/1353312849
+林正英3,https://lunbo.freetv.top/yy/1354932444
+成龙1,https://lunbo.freetv.top/yy/34460526
+成龙2,https://lunbo.freetv.top/yy/1354888751
+金庸,https://lunbo.freetv.top/yy/1356043609
+宝莲灯前传,https://lunbo.freetv.top/yy/1354931631
+红楼梦1987经典版,https://lunbo.freetv.top/yy/1382745084
+请回答1988,https://lunbo.freetv.top/yy/1354932362
+我和僵尸有个约会,https://lunbo.freetv.top/yy/1354143966
 陈翔六点半,https://www.goodiptv.club/huya/11274154
 新三国,https://www.goodiptv.club/huya/11352944
 新水浒,https://www.goodiptv.club/huya/11342384
@@ -382,74 +383,74 @@ CCTV15,http://218.24.193.146:808/hls/6/index.m3u8
 封神榜陈浩民,https://www.goodiptv.club/huya/23749096
 西游记港版,https://www.goodiptv.club/huya/23735126
 万合出品,https://www.goodiptv.club/douyu/9220456
-狂飙,https://www.goodiptv.club/yy/1382754187
+狂飙,https://lunbo.freetv.top/yy/1382754187
 征服,https://www.goodiptv.club/douyu/2726977
-渴望,https://www.goodiptv.club/yy/1354930963
-风筝,https://www.goodiptv.club/yy/1382828770
-顺娘,https://www.goodiptv.club/yy/1354930945
-富贵,https://www.goodiptv.club/yy/1354926537
-天道,https://www.goodiptv.club/yy/1382735574
-黑冰,https://www.goodiptv.club/yy/1354932427
-金婚,https://www.goodiptv.club/yy/1382828768
-马大帅,https://www.goodiptv.club/yy/1353782648
-都挺好,https://www.goodiptv.club/yy/1382736892
-包青天,https://www.goodiptv.club/yy/463153
+渴望,https://lunbo.freetv.top/yy/1354930963
+风筝,https://lunbo.freetv.top/yy/1382828770
+顺娘,https://lunbo.freetv.top/yy/1354930945
+富贵,https://lunbo.freetv.top/yy/1354926537
+天道,https://lunbo.freetv.top/yy/1382735574
+黑冰,https://lunbo.freetv.top/yy/1354932427
+金婚,https://lunbo.freetv.top/yy/1382828768
+马大帅,https://lunbo.freetv.top/yy/1353782648
+都挺好,https://lunbo.freetv.top/yy/1382736892
+包青天,https://lunbo.freetv.top/yy/463153
 朱元璋,https://www.goodiptv.club/douyu/308752
-李三枪,https://www.goodiptv.club/yy/1354936122
-上海滩,https://www.goodiptv.club/yy/1382745184
+李三枪,https://lunbo.freetv.top/yy/1354936122
+上海滩,https://lunbo.freetv.top/yy/1382745184
 好先生,https://www.goodiptv.club/douyu/9650792
-叛逆者,https://www.goodiptv.club/yy/1382736868
-宫心计,https://www.goodiptv.club/yy/1354932429
-伪装者,https://www.goodiptv.club/yy/1382851593
-小欢喜,https://www.goodiptv.club/yy/1382737888
+叛逆者,https://lunbo.freetv.top/yy/1382736868
+宫心计,https://lunbo.freetv.top/yy/1354932429
+伪装者,https://lunbo.freetv.top/yy/1382851593
+小欢喜,https://lunbo.freetv.top/yy/1382737888
 闯关东,https://www.goodiptv.club/douyu/8787737
-流金岁月,https://www.goodiptv.club/yy/1382736891
-传奇英雄,https://www.goodiptv.club/yy/1382735578
-勇敢的心,https://www.goodiptv.club/yy/18853
-康熙王朝,https://www.goodiptv.club/yy/1382851583
-正阳门下,https://www.goodiptv.club/yy/1382851588
-武林外传,https://www.goodiptv.club/yy/411376
-济公游记,https://www.goodiptv.club/yy/21482
-新封神榜,https://www.goodiptv.club/yy/31128
-插翅难逃,https://www.goodiptv.club/yy/23402146
-无敌县令,https://www.goodiptv.club/yy/1354932390
-魔幻手机,https://www.goodiptv.club/yy/1382735544
-法正先锋,https://www.goodiptv.club/yy/1354930939
-水月洞天,https://www.goodiptv.club/yy/1462996362
-汉武大帝,https://www.goodiptv.club/yy/1355260855
-我爱我家,https://www.goodiptv.club/yy/1356212303
-读心神探,https://www.goodiptv.club/yy/1382851589
-冲上云霄,https://www.goodiptv.club/yy/1382736833
-大江大河,https://www.goodiptv.club/yy/1382736797
+流金岁月,https://lunbo.freetv.top/yy/1382736891
+传奇英雄,https://lunbo.freetv.top/yy/1382735578
+勇敢的心,https://lunbo.freetv.top/yy/18853
+康熙王朝,https://lunbo.freetv.top/yy/1382851583
+正阳门下,https://lunbo.freetv.top/yy/1382851588
+武林外传,https://lunbo.freetv.top/yy/411376
+济公游记,https://lunbo.freetv.top/yy/21482
+新封神榜,https://lunbo.freetv.top/yy/31128
+插翅难逃,https://lunbo.freetv.top/yy/23402146
+无敌县令,https://lunbo.freetv.top/yy/1354932390
+魔幻手机,https://lunbo.freetv.top/yy/1382735544
+法正先锋,https://lunbo.freetv.top/yy/1354930939
+水月洞天,https://lunbo.freetv.top/yy/1462996362
+汉武大帝,https://lunbo.freetv.top/yy/1355260855
+我爱我家,https://lunbo.freetv.top/yy/1356212303
+读心神探,https://lunbo.freetv.top/yy/1382851589
+冲上云霄,https://lunbo.freetv.top/yy/1382736833
+大江大河,https://lunbo.freetv.top/yy/1382736797
 隋唐演义,https://www.goodiptv.club/douyu/7552568
-钟馗传说,https://www.goodiptv.club/yy/1382736839
-溏心风暴,https://www.goodiptv.club/yy/1354888747
-雍正王朝,https://www.goodiptv.club/yy/26901
-父母爱情,https://www.goodiptv.club/yy/1382746276
-火蓝刀锋,https://www.goodiptv.club/yy/1382737892
-白夜追凶,https://www.goodiptv.club/yy/1354932359
-金玉满堂,https://www.goodiptv.club/yy/1382736881
-民兵葛二蛋,https://www.goodiptv.club/yy/1382736895
-红楼梦1987,https://www.goodiptv.club/yy/1382745084
-怪医文三块,https://www.goodiptv.club/yy/1354936154
-放羊的星星,https://www.goodiptv.club/yy/21480
-忠烈杨家将,https://www.goodiptv.club/yy/1382749909
-少年包青天,https://www.goodiptv.club/yy/1356043677
-隋唐英雄传,https://www.goodiptv.club/yy/350891
-情满四合院,https://www.goodiptv.club/yy/1382735541
-雪中悍刀情,https://www.goodiptv.club/yy/11410
-神医喜来乐,https://www.goodiptv.club/yy/1382714119
-宰相刘罗锅,https://www.goodiptv.club/yy/1382745191
-刑事侦缉档案,https://www.goodiptv.club/yy/1382851585
-新白娘子传奇,https://www.goodiptv.club/yy/634132
+钟馗传说,https://lunbo.freetv.top/yy/1382736839
+溏心风暴,https://lunbo.freetv.top/yy/1354888747
+雍正王朝,https://lunbo.freetv.top/yy/26901
+父母爱情,https://lunbo.freetv.top/yy/1382746276
+火蓝刀锋,https://lunbo.freetv.top/yy/1382737892
+白夜追凶,https://lunbo.freetv.top/yy/1354932359
+金玉满堂,https://lunbo.freetv.top/yy/1382736881
+民兵葛二蛋,https://lunbo.freetv.top/yy/1382736895
+红楼梦1987,https://lunbo.freetv.top/yy/1382745084
+怪医文三块,https://lunbo.freetv.top/yy/1354936154
+放羊的星星,https://lunbo.freetv.top/yy/21480
+忠烈杨家将,https://lunbo.freetv.top/yy/1382749909
+少年包青天,https://lunbo.freetv.top/yy/1356043677
+隋唐英雄传,https://lunbo.freetv.top/yy/350891
+情满四合院,https://lunbo.freetv.top/yy/1382735541
+雪中悍刀情,https://lunbo.freetv.top/yy/11410
+神医喜来乐,https://lunbo.freetv.top/yy/1382714119
+宰相刘罗锅,https://lunbo.freetv.top/yy/1382745191
+刑事侦缉档案,https://lunbo.freetv.top/yy/1382851585
+新白娘子传奇,https://lunbo.freetv.top/yy/634132
 风云雄霸天下,https://www.goodiptv.club/douyu/9290755
-我的父亲我的兵,https://www.goodiptv.club/yy/1353413714
-穿越时空的爱恋,https://www.goodiptv.club/yy/1382735567
-特种兵之火凤凰,https://www.goodiptv.club/yy/1356326459
-神雕侠侣古天乐,https://www.goodiptv.club/yy/12531
-飞虎之雷霆极战,https://www.goodiptv.club/yy/1382736869
-知否知否应是绿肥红瘦,https://www.goodiptv.club/yy/398312
-经典电视剧,https://www.goodiptv.club/yy/1356341389
+我的父亲我的兵,https://lunbo.freetv.top/yy/1353413714
+穿越时空的爱恋,https://lunbo.freetv.top/yy/1382735567
+特种兵之火凤凰,https://lunbo.freetv.top/yy/1356326459
+神雕侠侣古天乐,https://lunbo.freetv.top/yy/12531
+飞虎之雷霆极战,https://lunbo.freetv.top/yy/1382736869
+知否知否应是绿肥红瘦,https://lunbo.freetv.top/yy/398312
+经典电视剧,https://lunbo.freetv.top/yy/1356341389
 
 狂飙01,https://p3-sign.douyinpic.com/obj/tos-cn-v-f17943/1004104b1cb44ebb86d41d36cded7134?filename=1.mp4&x-expires=1990965600&x-signature=rkNwnTHL%2FWG5t5y0NHV4u0MbsJI%3D
 狂飙02,https://p3-sign.douyinpic.com/obj/tos-cn-v-f17943/02c923a1b4534059a381b95639bfd677?filename=1.mp4&x-expires=1990965600&x-signature=EhDaC8GRTOmYxp5USNaur2Ma%2FXA%3D
