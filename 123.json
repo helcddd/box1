@@ -34,18 +34,6 @@
       "filterable": 1,
       "changeable": 0,
       "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=小雅"
-    },
-    {
-      "key": "csp_AList",
-      "name": "🌊神器云",
-      "type": 3,
-      "api": "csp_AList",
-      "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "https://al.chirmyram.com"
     }
 
 
