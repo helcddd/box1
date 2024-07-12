@@ -21,7 +21,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=lives"
+      "ext": "./lib/tv/zb.json"
     }
 
 
