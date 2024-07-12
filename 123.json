@@ -1737,16 +1737,6 @@
   ],
   "lives": [
     {
-{
-      "name": "SAO0",
-      "type": 0,
-      "url": "http://我不是.摸鱼儿.top/live.php",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
       "name": "刺猬直播二",
       "type": 0,
       "url": "https://www.cwss.xyz/刺猬直播禁止贩卖",
