@@ -22,6 +22,18 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "./lib/tv/zb1.json"
+    },
+        {
+      "key": "csp_AList",
+      "name": "😋小雅┃网盘┃分享",
+      "type": 3,
+      "api": "csp_AList",
+      "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=小雅"
     }
 
 
