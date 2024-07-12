@@ -33,7 +33,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "changeable": 0,
-      "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=小雅"
+      "ext": "./lib/tv/alist.json"
     }
 
     
