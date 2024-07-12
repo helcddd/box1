@@ -34,9 +34,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=小雅"
-    },
-    {"name":"🌊神器云","server":"https://al.chirmyram.com","startPage":"","search":false,"headers":null,"params":null,"isActive":true,"id":1}
-
+    }
 
     
   ],
