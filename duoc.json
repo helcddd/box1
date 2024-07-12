@@ -1,12 +1,56 @@
 {
     "urls": [
         {
-            "name": "❤ 自用丨自用1",
+            "name": "❤ 自用丨fty",
             "url": "https://raw.gitmirror.com/helcddd/box1/main/fty.json"
         },
-                {
-            "name": "❤ 自用丨自用2",
-            "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/helcddd/box1/main/123.json"
+        {
+            "name": "❤ 自用丨123",
+            "url": "https://raw.gitmirror.com/helcddd/box1/main/123.json"
+        },
+        {
+            "url": "http://我不是.摸鱼儿.top",
+            "name": "🐟 摸 鱼 "
+        },
+        {
+            "url": "https://www.yingm.cc/dm/dm.json",
+            "name": "🍍 动 漫 "
+        },
+        {
+            "url": "http://tvbox.715d.com/app/api.json",
+            "name": "🍱 六 趣 "
+        },
+        {
+            "url": "https://agit.ai/hu/hcr/raw/branch/master/短剧.json",
+            "name": "🎬️ 短 剧 "
+        },
+        {
+            "url": "http://肥猫.com",
+            "name": "🐼 肥 猫 "
+        },
+        {
+            "url": "http://xhww.fun:63/小米/DEMO.json",
+            "name": "🍚 小 米 "
+        },
+        {
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
+            "name": "😎 潇 洒 "
+        },
+        {
+            "url": "http://tvbox.王二小放牛娃.xyz",
+            "name": "🐂 放 牛 "
+        },
+        {
+            "url": "http://饭太硬.com/tv",
+            "name": "🍚饭太硬"
+        },
+        {
+            "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+            "name": "🌿香雅情"
+        },
+        {
+            "url": "http://www.wya6.cn/tv/yc.php",
+            "name": "🥕无意云"
         },
         {
             "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
