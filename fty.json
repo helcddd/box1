@@ -15,7 +15,7 @@
             "key": "直播转点播",
             "name": "📺︎┃电视┃点播",
             "type": 3,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/./js/lf_live.txt",
+            "api": "./lib/zb.min.js",
             "ext": "./lib/tv/zb.json"
         },
         {
