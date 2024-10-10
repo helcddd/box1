@@ -33,7 +33,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "./lib/tv/直播转点播[合].js?type=url&params=https://github.moeyy.xyz/https://raw.githubusercontent.com/helcddd/box1/refs/heads/main/lib/tv/zb.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/helcddd/box1/main/lib/tv/直播转点播[合].js?type=url&params=https://github.moeyy.xyz/https://raw.githubusercontent.com/helcddd/box1/main/lib/tv/zb.json"
         },
         {
             "key": "csp_AList",
