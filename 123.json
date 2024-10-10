@@ -33,7 +33,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "http://47.108.190.141/hipy/drpy_js/直播转点播[合].js?type=url&params=http://47.108.190.141/hipy/json/live2cms.json"
+            "ext": "./lib/zb/直播转点播[合].js?type=url&params=./lib/zb.json"
         },
         {
             "key": "csp_AList",
