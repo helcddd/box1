@@ -31,6 +31,14 @@
             "jar": "https://d.kstore.space/download/2883/sdtv.jar"
         },
         {
+            "key": "春盈",
+            "name": "春盈直播",
+            "type": 3,
+            "api": "http://rihou.cc:567/sdtv.js",
+            "ext": "http://rihou.cc:567/517sdtv.txt",
+            "jar": "http://rihou.cc:567/sdtv.jar"
+        },
+        {
             "key": "玩偶",
             "name": "👽玩偶哥哥┃4K弹幕",
             "type": 3,
