@@ -16,7 +16,7 @@
             "name": "📺︎┃电视┃点播",
             "playerType": 2,
             "type": 3,
-            "api": "./lib/zb.min.js",
+            "api": "http://47.108.190.141/hipy/drpy_libs/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
