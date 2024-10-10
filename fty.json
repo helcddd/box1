@@ -15,8 +15,12 @@
             "key": "直播转点播",
             "name": "📺︎┃电视┃点播",
             "type": 3,
-            "api": "./lib/zb.min.js",
-            "ext": "./lib/tv/zb.json"
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+            "ext": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_js/直播转点播[合].js?type=url&params=./lib/tv/zb.json"
         },
         {
             "key": "影视",
