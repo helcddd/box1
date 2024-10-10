@@ -14,13 +14,10 @@
         {
             "key": "直播转点播",
             "name": "📺︎┃电视┃点播",
-            "playerType": 2,
             "type": 3,
-            "api": "http://47.108.190.141/hipy/drpy_libs/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
+            "api": "https://d.kstore.space/download/2883/sdtv.js",
             "ext": "./lib/tv/zb.json"
+            "jar": "https://d.kstore.space/download/2883/sdtv.jar"
         },
         {
             "key": "影视",
