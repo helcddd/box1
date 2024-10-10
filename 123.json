@@ -23,6 +23,18 @@
             "filterable": 0,
             "ext": "./lib/tv/zb.json"
         },
+
+                {
+            "key": "hipy_js_直播转点播[合]",
+            "name": "直播转点播[合](drpy_t3)",
+            "type": 3,
+            "api": "http://47.108.190.141/hipy/drpy_libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "http://47.108.190.141/hipy/drpy_js/直播转点播[合].js?type=url&params=http://47.108.190.141/hipy/json/live2cms.json"
+        },
         {
             "key": "csp_AList",
             "name": "😋小雅┃网盘┃分享",
