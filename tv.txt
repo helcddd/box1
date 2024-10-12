@@ -161,16 +161,4 @@ CCTV-15,http://58.19.38.162:9901/tsfile/live/0015_1.m3u8?key=txiptv
 📺电影,#genre#
 
 📺直播,#genre#
-虎牙lpl主舞台,http://live.iill.top/huya.php?id=660000
-虎牙lpl副舞台,http://live.iill.top/huya.php?id=660137
-虎牙lpl纯净流A,rtmp://tx.matchdownstream.huya.com/huyalive/lpl24cleanA
-虎牙lpl纯净流B,rtmp://tx.matchdownstream.huya.com/huyalive/lpl24cleanB
-虎牙3208,http://live.iill.top/huya.php?id=222523
-虎牙sask,http://live.iill.top/huya.php?id=579236
-虎牙姿态,http://live.iill.top/huya.php?id=333003
-虎牙uzi,http://live.iill.top/huya.php?id=100
-虎牙神超,http://live.iill.top/huya.php?id=102411
-虎牙红莲,http://live.iill.top/huya.php?id=229085
-虎牙弃徒,http://live.iill.top/huya.php?id=825290
-斗鱼Dobin,http://live.iill.top/douyu.php?id=252140
 
