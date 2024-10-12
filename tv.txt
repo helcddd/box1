@@ -222,7 +222,7 @@ CCTV5+体育赛事,http://123.53.239.244:808/hls/18/index.m3u8
 
 📺轮播,#genre#
 武林外传,https://lunbo.freetv.top/yy/1355652820
-cctv6.https://tv.iill.top/migu/cctv6
+cctv6,https://tv.iill.top/migu/cctv6
 
 
 📺电视剧,#genre#
