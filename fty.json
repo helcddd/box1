@@ -1,67 +1,107 @@
 {
-    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727892807646/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93",
-    "wallpaper": "https://深色壁纸.xxooo.cf/",
-    "logo" : "https://s1.imagehub.cc/images/2025/01/15/e8b21391c58ed454c13ade26c003e857.gif",
-    "lives": [
-        {
-            "name": "自用",
-            "type": 0,
-            "url": "https://ghfast.top/raw.githubusercontent.com/helcddd/box1/main/tv.txt",
-            "playerType": 1,
-	    "ua" : "okhttp/3.15",
-	    "epg" : "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo" : "https://epg.112114.xyz/logo/{name}.png"
-        }
-    ],
-    
-    "sites": [
-        {
-            "key": "豆瓣推荐",
-            "name": "豆瓣推荐",
-            "type": 3,
-            "api": "csp_DouDou",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0
-        },
-        
-        {
-            "key": "hipy_js_直播转点播[合]",
-            "name": "直播转点播",
-            "type": 3,
-            "api": "http://47.108.190.141/hipy/drpy_libs/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "ext": "./lib/tv/直播转点播[合].js?type=url&params=https://github.moeyy.xyz/https://raw.githubusercontent.com/helcddd/box1/main/lib/tv/zb.json"
-        },
+	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727892807646/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93",
+	"wallpaper": "https://深色壁纸.xxooo.cf/",
+	"logo": "https://s1.imagehub.cc/images/2025/01/15/e8b21391c58ed454c13ade26c003e857.gif",
+	"lives": [{
+		"name": "自用tv",
+		"type": 0,
+		"url": "https://ghfast.top/raw.githubusercontent.com/helcddd/box1/main/tv.txt",
+		"playerType": 1,
+		"ua": "okhttp/3.15",
+		"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+		"logo": "https://epg.112114.xyz/logo/{name}.png"
+	}],
 
-        {
-            "key": "玩偶",
-            "name": "👽玩偶哥哥┃4K弹幕",
-            "type": 3,
-            "api": "csp_WoGG",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": {
-                "aliToken": "tvfan/token.txt",
-                "quarkCookie": "tvfan/cookie.txt",
-                "from": "4k|auto|fhd",
-                "siteUrl": "https://api.wogg.xyz/",
-                "danMu": "弹"
-            }
-        },
+	"sites": [{
+		"key": "hipy_js_直播转点播[合]",
+		"name": "直播转点播",
+		"type": 3,
+		"api": "http://47.108.190.141/hipy/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "./lib/tv/直播转点播[合].js?type=url&params=https://github.moeyy.xyz/https://raw.githubusercontent.com/helcddd/box1/main/lib/tv/zb.json"
+	},
 
-        {
-            "key": "低端",
-            "name": "⏮️低端┃外剧",
-            "type": 3,
-            "api": "csp_Ddrk",
-            "playerType": "2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        }
+	{
+		"key": "玩偶",
+		"name": "👽玩偶哥哥┃4K弹幕",
+		"type": 3,
+		"api": "csp_WoGG",
+		"searchable": 1,
+		"quickSearch": 1,
+		"changeable": 0,
+		"ext": {
+			"aliToken": "tvfan/token.txt",
+			"quarkCookie": "tvfan/cookie.txt",
+			"from": "4k|auto|fhd",
+			"siteUrl": "https://api.wogg.xyz/",
+			"danMu": "弹"
+		}
+	},
+
+	{
+		"key": "低端",
+		"name": "⏮️低端┃外剧",
+		"type": 3,
+		"api": "csp_Ddrk",
+		"playerType": "2",
+		"searchable": 1,
+		"quickSearch": 1,
+		"changeable": 1
+	},
+
+	{
+		"key": "糯米",
+		"name": "\uD83C\uDF53糯米┃秒播",
+		"type": 3,
+		"api": "csp_NmyswvGuard",
+		"searchable": 1,
+		"quickSearch": 1,
+		"changeable": 1,
+		"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742157952185/f0317.txt;md5;a0e22e79a8fed34ecb3b1f09399f4f50"
+	},
+
+	{
+		"key": "贱贱",
+		"name": "\uD83D\uDC2D荐片┃P2P",
+		"type": 3,
+		"api": "csp_JPJGuard",
+		"playerType": 2,
+		"searchable": 1,
+		"quickSearch": 1,
+		"changeable": 0,
+		"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742157952185/f0317.txt;md5;a0e22e79a8fed34ecb3b1f09399f4f50"
+	},
+	{
+		"key": "Dm84",
+		"name": "🚌巴士┃动漫",
+		"type": 3,
+		"api": "csp_Dm84Guard",
+		"searchable": 1,
+		"quickSearch": 1,
+		"changeable": 1,
+		"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742157952185/f0317.txt;md5;a0e22e79a8fed34ecb3b1f09399f4f50"
+	},
+	{
+		"key": "Ysj",
+		"name": "🎀异界┃动漫",
+		"type": 3,
+		"api": "csp_YsjGuard",
+		"searchable": 1,
+		"quickSearch": 1,
+		"changeable": 1,
+		"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742157952185/f0317.txt;md5;a0e22e79a8fed34ecb3b1f09399f4f50"
+	},
+	{
+		"key": "Anime1",
+		"name": "🐾日本┃动漫",
+		"type": 3,
+		"api": "csp_Anime1Guard",
+		"searchable": 1,
+		"quickSearch": 1,
+		"changeable": 1,
+		"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742157952185/f0317.txt;md5;a0e22e79a8fed34ecb3b1f09399f4f50"
+	}
 }
