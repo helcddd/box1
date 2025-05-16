@@ -2,9 +2,16 @@
 
 https://raw.gitmirror.com/helcddd/box1/main/fty.json
 
-阿拉斯加海湾
-
 https://github.moeyy.xyz/https://raw.githubusercontent.com/helcddd/box1/main/duoc.json
+
+
+# 直播源
+
+https://github.com/Guovin/iptv-api
+https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+
+
+
 
 # 最近看的小说
 
