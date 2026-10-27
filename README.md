@@ -5,6 +5,12 @@ https://raw.gitmirror.com/helcddd/box1/main/fty.json
 https://github.moeyy.xyz/https://raw.githubusercontent.com/helcddd/box1/main/duoc.json
 
 
+影视源：
+肥猫
+https://cdn.jsdelivr.net/gh/Lightconer/tvbox-ysc-config@main/output/feimao.json
+
+
+
 # 直播源
 
 https://github.com/Guovin/iptv-api
